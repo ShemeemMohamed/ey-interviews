@@ -1,10 +1,3 @@
-# Senior Backend Code Review Test
-
-This repository contains a **scenario-based backend code review test** for evaluating a **Senior Backend Developer**.
-
-The project is intentionally written with several design, security, reliability, and maintainability issues.
-The candidate should review the code as if it was submitted in a real pull request.
-
 ## Tech Stack
 
 - Node.js
